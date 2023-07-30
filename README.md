@@ -1,5 +1,9 @@
 ### Hi there 👋
 ## - 🔭 I’m currently working on ...
+### MERN PROJECTS:
+####              - Expense Tracker App
+####              - MERN Blog App
+####              - Deploying and Pushing Docker artifacts using GitHub Actions
 <!--
 **KukuriBaagh/KukuriBaagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
